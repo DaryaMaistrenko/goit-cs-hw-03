@@ -1,5 +1,1 @@
-from IPython.display import Image, display
-
-file_path = ""C:\Users\dmaistrenko\Downloads\er_diagram_schema.png""
-display(Image(filename=file_path))
-
+"C:\Users\dmaistrenko\Downloads\er_diagram_schema.png"
